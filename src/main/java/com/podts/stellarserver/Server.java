@@ -1,4 +1,4 @@
-package com.podts;
+package com.podts.stellarserver;
 
 public class Server {
 	
